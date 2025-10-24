@@ -3,3 +3,4 @@
 
 Added from partner1
 New addition
+newPartner
